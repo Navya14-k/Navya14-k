@@ -1,6 +1,6 @@
-# Hey 👋, I'm Karre Navya
-
-**Java Full Stack Developer** · Spring Boot · REST API Enthusiast
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karre%20Navya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20API&descSize=18&descAlignY=52&descColor=8b949e" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Navya14-k&label=Profile%20views&color=0e75b6&style=flat" />
 
@@ -31,7 +31,9 @@ I am Karre Navya, a **Java Full Stack Developer** with a Bachelor's degree in Co
 
 **Architecture:** MVC, Layered Architecture, RESTful APIs
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,maven" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,maven" />
+</p>
 
 ---
 
@@ -111,12 +113,18 @@ I am Karre Navya, a **Java Full Stack Developer** with a Bachelor's degree in Co
 
 ## Connect With Me
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Navya14-k)
-&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)
-&nbsp;
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:navyakarre26@gmail.com)
+<p align="center">
+  <a href="https://github.com/Navya14-k"><img src="https://skillicons.dev/icons?i=github" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/navya-karre-273a033a1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:navyakarre26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
 
 <p align="center"><b>✨ Open To Work · Java Developer · Software Engineer ✨</b></p>
