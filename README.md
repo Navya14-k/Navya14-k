@@ -122,7 +122,7 @@ I am Karre Navya, a **Java Full Stack Developer** with a Bachelor's degree in Co
 <p align="center">
   <a href="https://github.com/Navya14-k"><img src="https://skillicons.dev/icons?i=github" /></a>
   &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/navya-karre-273a033a1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   &nbsp;&nbsp;
   <a href="mailto:navyakarre26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
