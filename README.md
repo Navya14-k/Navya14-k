@@ -1,10 +1,16 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karre%20Navya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20API&descSize=18&descAlignY=52&descColor=8b949e" />
-</p>
+<div align="center">
+  <img width="100%" height="400" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1400&h=500&fit=crop&crop=center" style="border-radius: 12px; object-fit: cover;" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Navya14-k&label=Profile%20views&color=0e75b6&style=flat" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&pause=1000&color=F0883E&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Karre+Navya;Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Navya14-k&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
+
+<br/>
 
 ## About Me
 
@@ -90,7 +96,7 @@ I am Karre Navya, a **Java Full Stack Developer** with a Bachelor's degree in Co
 
 | Degree | Institution | Period |
 |--------|------------|--------|
-| B.Sc. Computer Science (Maths, Physics, Chemistry) | Ram Reddy Memorial Degree College, Jangaon | Jul 2022 – May 2025 |
+| B.Sc. Computer Science (Maths, Physics, Chemistry) | Ram Reddy Memorial Degree College, Jangaan | Jul 2022 – May 2025 |
 | MPC (Intermediate) | Telangana Model Junior College, Bachannapet | Jun 2020 – May 2022 |
 
 ---
@@ -116,15 +122,15 @@ I am Karre Navya, a **Java Full Stack Developer** with a Bachelor's degree in Co
 <p align="center">
   <a href="https://github.com/Navya14-k"><img src="https://skillicons.dev/icons?i=github" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/navya-karre-273a033a1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   &nbsp;&nbsp;
   <a href="mailto:navyakarre26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</p>
+<div align="center">
+  <img width="100%" height="150" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&h=200&fit=crop&crop=center" style="border-radius: 12px; object-fit: cover;" />
+</div>
 
 <p align="center"><b>✨ Open To Work · Java Developer · Software Engineer ✨</b></p>
